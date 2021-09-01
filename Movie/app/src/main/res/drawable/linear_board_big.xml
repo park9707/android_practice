@@ -2,16 +2,15 @@
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:top="-2dp"
-        android:bottom="-2dp">
+        android:top="-10dp"
+        android:left="-10dp"
+        android:right="-10dp">
 
         <shape android:shape="rectangle">
 
-        <stroke android:width="2dp" android:color="#FF939393"/>
-        <solid android:color="#00000000"/>
+            <stroke android:width="10dp" android:color="#FFC8C8C8"></stroke>
 
         </shape>
 
     </item>
-
 </layer-list>
