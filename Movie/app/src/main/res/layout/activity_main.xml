@@ -134,7 +134,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="1위 24%"
+                android:text="2위 24%"
                 android:textSize="21dp"
                 android:textStyle="bold" />
 
